@@ -17,28 +17,28 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int barPemmican = 5;
 
-        [Name("                  - Fishcakes")]
-        [Description("Set the required cooking skill level for the Fishcakes recipe.")]
+        [Name("                  -  Coastal Fishcakes")]
+        [Description("Set the required cooking skill level for the  Coastal Fishcakes recipe.")]
         [Slider(1, 5)]
         public int fishcakes = 5;
 
-        [Name("                  - Fishermans Pie")]
-        [Description("Set the required cooking skill level for the Fishermans Pie recipe.")]
+        [Name("                  - Dockworker's Pie")]
+        [Description("Set the required cooking skill level for the Dockworker's Pie recipe.")]
         [Slider(1, 5)]
         public int pieFishermans = 5;
 
-        [Name("                  - Foragers Pie")]
-        [Description("Set the required cooking skill level for the Foragers Pie recipe.")]
+        [Name("                  -  Prepper's Pie")]
+        [Description("Set the required cooking skill level for the  Prepper's Pie recipe.")]
         [Slider(1, 5)]
         public int pieForagers = 5;
 
-        [Name("                  - Meat Pie")]
-        [Description("Set the required cooking skill level for the Meat Pie recipe.")]
+        [Name("                  - Breyerhouse Pie")]
+        [Description("Set the required cooking skill level for the Breyerhouse Pie recipe.")]
         [Slider(1, 5)]
         public int pieMeat = 5;
 
-        [Name("                  - Predator Pie")]
-        [Description("Set the required cooking skill level for the Predator Pie recipe.")]
+        [Name("                  - Stalker's Pie")]
+        [Description("Set the required cooking skill level for the Stalker's Pie recipe.")]
         [Slider(1, 5)]
         public int piePredator = 5;
 
@@ -50,8 +50,8 @@ namespace RecipeRequirements
         [Choice("+", "-")]
         public bool recipe4 = false;
 
-        [Name("                  - Peach Pancake")]
-        [Description("Set the required cooking skill level for the Peach Pancake recipe.")]
+        [Name("                  - Lily's Pancakes")]
+        [Description("Set the required cooking skill level for the Lily's Pancakes recipe.")]
         [Slider(1, 5)]
         public int pancakePeach = 4;
 
@@ -157,8 +157,8 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int porridge = 1;
 
-        [Name("                  - Rabbit Soup")]
-        [Description("Set the required cooking skill level for the Rabbit Soup recipe.")]
+        [Name("                  - Vagabond Soup")]
+        [Description("Set the required cooking skill level for the Vagabond Soup recipe.")]
         [Slider(1, 5)]
         public int soupRabbit = 1;
 
@@ -167,23 +167,23 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int stewPtarmigan = 1;
 
-        [Name("                   Rabbit Stew")]
+        [Name("                  - Rabbit Stew")]
         [Description("Set the required cooking skill level for the Rabbit Stew recipe.")]
         [Slider(1, 5)]
         public int stewRabbit = 1;
 
-        [Name("                   Trout Stew")]
+        [Name("                  - Trout Stew")]
         [Description("Set the required cooking skill level for the Trout Stew recipe.")]
         [Slider(1, 5)]
         public int stewTrout = 1;
 
-        [Name("                   Venison Stew")]
+        [Name("                  - Venison Stew")]
         [Description("Set the required cooking skill level for the Venison Stew recipe.")]
         [Slider(1, 5)]
         public int stewVenison = 1;
 
-        [Name("                  - Sweet Potato")]
-        [Description("Set the required cooking skill level for the Sweet Potato recipe.")]
+        [Name("                  - Last Restort Soup")]
+        [Description("Set the required cooking skill level for the Last Restort Soup recipe.")]
         [Slider(1, 5)]
         public int sweetPotato = 1;
 
