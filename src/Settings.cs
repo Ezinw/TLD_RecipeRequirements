@@ -17,7 +17,7 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int barPemmican = 5;
 
-        [Name("                  -  Coastal Fishcakes")]
+        [Name("                  - Coastal Fishcakes")]
         [Description("Set the required cooking skill level for the  Coastal Fishcakes recipe.")]
         [Slider(1, 5)]
         public int fishcakes = 5;
@@ -27,7 +27,7 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int pieFishermans = 5;
 
-        [Name("                  -  Prepper's Pie")]
+        [Name("                  - Prepper's Pie")]
         [Description("Set the required cooking skill level for the  Prepper's Pie recipe.")]
         [Slider(1, 5)]
         public int pieForagers = 5;
@@ -182,8 +182,8 @@ namespace RecipeRequirements
         [Slider(1, 5)]
         public int stewVenison = 1;
 
-        [Name("                  - Last Restort Soup")]
-        [Description("Set the required cooking skill level for the Last Restort Soup recipe.")]
+        [Name("                  - Last Resort Soup")]
+        [Description("Set the required cooking skill level for the Last Resort Soup recipe.")]
         [Slider(1, 5)]
         public int sweetPotato = 1;
 
